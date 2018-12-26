@@ -8,3 +8,4 @@ ll
 VK
 adb 
 17
+escn
