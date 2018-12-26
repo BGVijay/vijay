@@ -4,5 +4,7 @@ Initial purpose for learning to use Git
 demoproject
 demo
 ll
-1856
+18
 VK
+adb 
+17
