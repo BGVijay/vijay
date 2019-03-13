@@ -1,0 +1,29 @@
+GiT
+
+**Configuring email and username , password for the git repo
+command -- git config --gloabl user.name " "
+           git config --gloabl user.email " "
+           git config --gloabl user.password " "
+
+**to verify the details of config 
+ git config --gloabl --list
+
+ **to view the details in .git file
+vi ~/.gitconfig 
+
+**initialize git repo
+git init
+
+**to add some content to the new file in an empty repo
+1)echo "*content*" >>new file name with extension 
+
+ex----- echo "this is 1st file " >> testfile.txt
+
+2) vi newfile name
+-- vi test2file.txt
+
+to view contents of the file 
+"cat" command ouputs content from the files
+ command -- cat filename
+            cat testfile.txt
+
