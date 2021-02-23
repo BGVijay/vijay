@@ -1,5 +1,7 @@
 GiT
 
+Few generic commands in git
+
 **Configuring email and username , password for the git repo
 command -- git config --gloabl user.name " "
            git config --gloabl user.email " "
