@@ -1,4 +1,4 @@
-mmhhGiT
+
 
 Few generic commands in git
 
